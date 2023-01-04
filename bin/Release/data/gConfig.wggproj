@@ -1,0 +1,15 @@
+[Base]
+lastIndex=16
+isUsingBGM=true
+bgMusicPart=11|16
+bgMusicPartPath=./assets/bg.wav
+bgPicPart=0|1
+bgPicPartPath=
+firstBgPicPath=C:\Users\32451\Pictures\BC5EDE9F94D5A4150640473401AF7696.png
+[Character]
+names=77yf77yf77yf|5piK5Lqs|5piK5Lqs|77yf77yf77yf|77yf77yf77yf|77yf77yf77yf|77yf77yf77yf|5piK5Lqs|77yf77yf77yf|77yf77yf77yf|77yf77yf77yf|5piK5Lqs|5piK5Lqs|5piK5Lqs|5piK5Lqs|5piK5Lqs
+[Dialog]
+texts=5aSn5ZOl77yM5Yia5Yiw5omL55qE5omL5py677yM5L6/5a6c|5L2g6L+Z5pivV0booYzkuLo=|6LWw77yM6Lef5oiR5Y67WlM=|5aSn5ZOl5aSn5ZOl|5oiR6L+Z5piv5LiA5bCP6YOo5YiG|5Zyo5a626YeM6Z2i6L+Y5pyJ5b6I5aSa|6Lef5oiR5Zue5a625ou/5Y67|6LWw|6L+Z5LiqKiropoHmi4nnnYDmiJHljrtaUw==|5oiR5Lus6YO95piv5riF5o+S77yM5p2l5ZWK|5oqK5oiR5Lus6YO95oqT6LWw5ZWK|5pys5Lul5Li65oqT5Liq5bCP6LS8|5rKh5oOz5Yiw5o2F5LqG6ICB56qd|5Lu75L2V6YKq5oG2|57uI5bCG57uz5LmL5Lul5rOV
+[Voice]
+status=false|false|false|false|false|false|false|false|false|false|false|false|false|true|true
+paths=nil|nil|nil|nil|nil|nil|nil|nil|nil|nil|nil|nil|nil|./assets/v1.wav|./assets/v2.wav

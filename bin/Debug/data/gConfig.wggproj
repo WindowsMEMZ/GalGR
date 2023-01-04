@@ -1,0 +1,16 @@
+[Base]
+lastIndex=5
+isUsingBGM=false
+bgMusicPart=0|1
+bgMusicPartPath=
+bgPicPart=2|5
+bgPicPartPath=./assets/test1.png
+firstBgPicPath=C:\Users\32451\Pictures\фад╩╫ьм╪ 2022-12-29 151356.png
+isEnc=false
+[Character]
+names=V2luZG93c01FTVo=|V2luZG93c01FTVo=|bWVtejIzMw==|bWVtejIzMw==|bWVtejIzMw==
+[Dialog]
+texts=VGVzdDE=|VGVzdDI=|VGVzdDM=|VGVzdDQ=
+[Voice]
+status=false|false|false|false
+paths=nil|nil|nil|nil
